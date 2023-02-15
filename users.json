@@ -1,0 +1,32 @@
+[
+  {
+    "email": "test12345@test.com",
+    "password": "19bef5dd262a847ab5a49e1a8b0a433545dbfca8dec547cdabe997d212ddc6ab8152267d425829b9cec84a16bf61730b03aea89877553fd4f006ec7bbba363a9.80fe4def651e80ca",
+    "id": "7c10ef70"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "20e199e2f96be591218023a06273e99aa64a1026b319b2cddd2bfb200ea36a9cd1c626c387bd154eacaeada979dbe25e80ab2906057ccf73c12da513c3c332f6.8d6489dd5b4e7aea",
+    "id": "ac0507f3"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "1c247212bf662f0c16ecbbc9167c16e4fa353d6558878ba66cb6314efa88b7ef7422261d8b8a0d1f7f5f300bfd7d3e4db3a81385bd5efc7def5398cd7bfd635e.9e2c198abc23816f",
+    "id": "fba96127"
+  },
+  {
+    "email": "test7@test.com",
+    "password": "137d935f6e23e836cdb433fda4fb4f35ccb22c40c8c94f650658a1ec362a198d00548d4d0850ee0e50cb342f54ca704d3e814ea866d3dc1f3beda3960fdba777.06d9ef6239c65106",
+    "id": "7f3cacdb"
+  },
+  {
+    "email": "test9@test.com",
+    "password": "21c39c85929865e9197e53f795fe9eb7d45b0ee05d07bbbe29cf696b4d95f946094c86694313b3b812b6ce877294e4e12504551507a60e42992b7e4322d15eb5.e72367edcfe3a365",
+    "id": "5e958298"
+  },
+  {
+    "email": "test98@test.com",
+    "password": "105b2347017f047c47a438e2571fcd6e71b4b59067b3ad24928e3df3bb18fbefdc8adfba235a6381500a0a05f810259efe5491fa90242971e4a5bbde3de0dfd3.c897f1cd7ae75325",
+    "id": "3bfed099"
+  }
+]
